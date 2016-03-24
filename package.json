@@ -1,0 +1,24 @@
+{
+  "name": "@testlio/eslint-config-services",
+  "version": "1.0.0",
+  "description": "Shareable eslint configuration for Testlio's services",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Testlio/eslint-config-services.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "testlio",
+    "services"
+  ],
+  "author": "dev@testlio.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Testlio/eslint-config-services/issues"
+  },
+  "homepage": "https://github.com/Testlio/eslint-config-services#readme"
+}
