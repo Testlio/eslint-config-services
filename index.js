@@ -46,6 +46,7 @@ module.exports = {
         'space-infix-ops': [2],
         'space-unary-ops': [2],
         'spaced-comment': [2, 'always'],
+        'strict': [2, 'safe'],
         yoda: [2]
     },
     env: {
