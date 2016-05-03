@@ -47,7 +47,8 @@ module.exports = {
         'space-unary-ops': [2],
         'spaced-comment': [2, 'always'],
         strict: [2, 'safe'],
-        yoda: [2]
+        yoda: [2],
+        'new-cap': [2]
     },
     env: {
         es6: true,
