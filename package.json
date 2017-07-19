@@ -1,6 +1,6 @@
 {
   "name": "@testlio/eslint-config-services",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Shareable eslint configuration for Testlio's services",
   "main": "index.js",
   "scripts": {},

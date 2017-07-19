@@ -1,4 +1,7 @@
 module.exports = {
+    parserOptions: {
+        ecmaVersion: 8 // overrides ecmaVersion set by es6 env
+    },
     rules: {
         'array-bracket-spacing': [2, 'never'],
         'block-spacing': [2, 'always'],
